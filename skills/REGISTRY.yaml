@@ -1,0 +1,107 @@
+registry_version: 0.1.0
+status: active
+maturity_levels:
+  L0: Note
+  L1: Rule
+  L2: SOP
+  L3: Validated Skill
+  L4: Automated Skill
+  L5: Studio Standard
+
+skills:
+  - id: PHYSICS_FIRST_GIANT_MOTION
+    department: D07
+    maturity: L3
+    tags: [giant, physics, motion]
+  - id: MOTION_LOOK_SEPARATION
+    department: D08
+    maturity: L3
+    tags: [reference-routing, generative, motion]
+  - id: REFERENCE_ROLE_ROUTING
+    department: D08
+    maturity: L3
+    tags: [reference-routing, identity, look, motion, voice]
+  - id: PAID_GENERATION_PREFLIGHT
+    department: D01
+    maturity: L3
+    tags: [cost, generation, qa]
+  - id: OFFSCREEN_CAUSAL_SOUND
+    department: D09
+    maturity: L3
+    tags: [sound, causality, offscreen]
+  - id: METAPHOR_TO_PHYSICS_TRANSLATION
+    department: D02
+    maturity: L3
+    tags: [directing, physics, prompt]
+  - id: MODEL_SELECTION_BUY_BEFORE_BUILD
+    department: D08
+    maturity: L5
+    tags: [tools, architecture, buy-before-build]
+  - id: TEXT_INTEGRITY_LOCK
+    department: D04
+    maturity: L2
+    tags: [text, signage, continuity]
+  - id: CROWD_CONTINUITY_LOCK
+    department: D05
+    maturity: L2
+    tags: [crowd, continuity, generative]
+  - id: GROUND_LEVEL_KAIJU_POV
+    department: D06
+    maturity: L2
+    tags: [kaiju, camera, scale]
+  - id: PARTIAL_REVEAL_SCALE
+    department: D06
+    maturity: L2
+    tags: [kaiju, reveal, scale]
+  - id: CONTROLLED_TO_CHAOTIC_CAMERA
+    department: D06
+    maturity: L2
+    tags: [camera, disaster, escalation]
+  - id: HUMAN_FOREGROUND_SCALE_CUE
+    department: D06
+    maturity: L2
+    tags: [scale, human, composition]
+  - id: STORYBOARD_TO_3D_LAYOUT
+    department: D07
+    maturity: L2
+    tags: [storyboard, previs, 3d]
+  - id: PRIMARY_MASS_SECONDARY_MECHANICS
+    department: D07
+    maturity: L2
+    tags: [giant, animation, mechanics]
+  - id: ENVIRONMENTAL_SCALE_REACTION
+    department: D07
+    maturity: L2
+    tags: [environment, physics, scale]
+  - id: ACTION_CONTINUITY_ACROSS_CUTS
+    department: D09
+    maturity: L1
+    tags: [editing, action, continuity]
+  - id: GIANT_HUMAN_SPATIAL_BLOCKING
+    department: D07
+    maturity: L2
+    tags: [blocking, giant, human]
+  - id: VIRTUAL_MULTICAM_COVERAGE
+    department: D06
+    maturity: L1
+    tags: [virtual-production, multicam, editing]
+  - id: CREATURE_INTERNAL_INTENT
+    department: D02
+    maturity: L1
+    tags: [performance, creature, directing]
+  - id: ATMOSPHERIC_DISTANCE_SCALE
+    department: D06
+    maturity: L2
+    tags: [atmosphere, scale, weather]
+  - id: REAL_LOCATION_TEXTURE_ANCHOR
+    department: D04
+    maturity: L2
+    tags: [location, realism, production-design]
+  - id: WORLDIZED_SPATIAL_SOUND
+    department: D09
+    maturity: L1
+    tags: [sound, distance, reflections]
+  - id: GIANT_APPROACH_PRESSURE_GRAMMAR
+    department: D06
+    maturity: L1
+    tags: [kaiju, pressure, camera, scale]
