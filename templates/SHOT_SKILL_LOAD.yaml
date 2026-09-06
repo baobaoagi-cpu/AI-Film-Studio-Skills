@@ -1,0 +1,50 @@
+shot_id:
+sequence_id:
+project_id:
+story_intent:
+
+studio_knowledge:
+  registry_version:
+  skill_packs: []
+  departments_active: []
+  skills_required: []
+  skills_optional: []
+  skills_loaded: []
+
+project_canon:
+  canon_refs: {}
+  characters: []
+  environment:
+  dialogue:
+
+physics:
+  scale_constraints: {}
+  motion_constraints: {}
+  camera_anchor:
+  continuity_constraints: {}
+
+references:
+  motion_source:
+  look_source:
+  identity_source:
+  voice_source:
+
+locks:
+  text_integrity: true
+  crowd_continuity: true
+  scene_mutation_lock: true
+
+paid_generation:
+  preflight_complete: false
+  cost_estimate:
+  budget_ceiling:
+  director_authorized: false
+
+completion:
+  approved: false
+  skills_used: []
+  skills_created: []
+  skills_upgraded: []
+  failure_modes_seen: []
+  reusable_assets: []
+  deprecated_rules: []
